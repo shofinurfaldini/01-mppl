@@ -2,7 +2,7 @@
 MPPL dalam bahasa Inggris sering disebut dengan **Software Development Methodology** atau **Software Development Process**.
 
 ## MPPL Yang Mewakili Klasik
-Berikut merupakan metode dari pengembangan software menggunakan Klasik:
+Berikut merupakan metode dari pengembangan software menggunakan klasik:
 
 1. **Waterfall** adalah metode pengembangan perangkat lunak tertua sebab sifatnya yang natural. Metode ini merupakan pendekatan SDLC paling awal yang digunakan untuk pengembangan perangkat lunak. urutan dalam metode ini bersifat serial yang dimulai dari proses perencanaan, analisa, desain, dan implementasi pada sistem. Metode ini dilakukan dengan pendekatan yang sistematis dan langkah dem langkah yang dilalui harus diselesaikan satu persatu dan berjalan secara berurutan.
 
@@ -11,7 +11,7 @@ Berikut merupakan metode dari pengembangan software menggunakan Klasik:
 3. **Rapid Application Developmnet (RAD)** adalah sebuah metode pengembangan software yang diciptakan untuk menekan waktu yang dibutuhkan untuk mendesain serta mengimplementasikan sistem informasi sehingga dihasilkan siklus pengembangan yang sangat pendek. Model RAD ini merupakan adaptasi dari model sejuansial lnier dimana perkembangan yang cepat dicapai dengan menggunakan pendekatan kontruksi berbasos kompenen sehingga, kebutuhan sistem dapat dipahami dengan baik.
 
 ## MPPL Yang Mewakili Agile
-Berikut merupakan jenis dari pengembangan software menggunakan Agile:
+Berikut merupakan jenis dari pengembangan software menggunakan agile:
 
 1. **Adaptive Software Development (ASD)** merupakan suatu model pengembangan perangkat lunak yang tergolong dalam agile development methods yang diusulkan oleh Jim Highsmith. ASD menggunakan tools yang disebut _time-boxing_ yang merupakan aktifitas yang menentukan jangka waktu yang dialokasikan untuk menyelesaikan berbagai macam tugas.
 
